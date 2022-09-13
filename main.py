@@ -24,7 +24,7 @@ print("Tienes", puntaje, "puntos, para empezar\n")
 
 # Agregaremos personalización para nuestros jugadores, preguntando y almacenando sus nombres en una variable
 
-nombre = input("Ingresa tu nombre: ")
+nombre = input("\nIngresa tu nombre: ")
 
 # Es importante dar instrucciones sobre cómo jugar:
 # Ahora, lo personalizaremos con el nombre del jugador, diciéndole a print() que muestre el contenido de la variable "nombre". Cada cosa distinta que queremos que muestre en la pantalla, la separamos con comas
